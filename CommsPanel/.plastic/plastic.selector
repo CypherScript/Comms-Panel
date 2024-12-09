@@ -1,0 +1,4 @@
+repository "CommsPanel@Interactive_302@cloud"
+  path "/"
+    smartbranch "/main/dev" changeset "70" 
+     
